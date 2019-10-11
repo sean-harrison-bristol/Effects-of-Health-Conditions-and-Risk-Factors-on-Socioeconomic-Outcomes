@@ -1,7 +1,7 @@
 # Effects-of-Health-Conditions-and-Risk-Factors-on-Socioeconomic-Outcomes
 Repository for the paper entitled: The Causal Effects of Health Conditions and Risk Factors on Social and Socioeconomic Outcomes: Mendelian Randomization in UK Biobank
 
-Abstract for the study
+Abstract for the study:
 
 Background
 Understanding the causal impacts of health on social and socioeconomic outcomes could demonstrate the potential broader benefits of investing in effective health policy, strengthening the case for cross-governmental action to improve health and its wider determinants at the population-level. 
@@ -24,7 +24,7 @@ Until publication, this repository contains the manuscript (as on MedRxiv) and a
 
 Authors: Sean Harrison*, PhD [1,2], Alisha R Davies, PhD [3], Matt Dickson, PhD [4], Jessica Tyrrell, PhD [5], Michael J Green, PhD [6], Srinivasa Vittal Katikireddi, PhD [6], Desmond Campbell, PhD [6], Marcus Munafò, PhD [7], Padraig Dixon, PhD [1,2], Hayley E Jones, PhD [2], Frances Rice, PhD [8], Neil M Davies^, PhD [1,2], Laura D Howe^, PhD [1,2]
 
- * Corresponding author (email: sean.harrison@bristol.ac.uk)
+ /asterisk Corresponding author (email: sean.harrison@bristol.ac.uk)
  ^ denotes equal contribution
 
 1.	MRC Integrative Epidemiology Unit (IEU), Population Health Sciences, Bristol Medical School, University of Bristol, Bristol
