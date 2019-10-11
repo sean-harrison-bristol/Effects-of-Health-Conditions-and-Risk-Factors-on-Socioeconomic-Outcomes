@@ -1,6 +1,8 @@
 # Effects-of-Health-Conditions-and-Risk-Factors-on-Socioeconomic-Outcomes
 Repository for the paper entitled: The Causal Effects of Health Conditions and Risk Factors on Social and Socioeconomic Outcomes: Mendelian Randomization in UK Biobank
 
+This repository contains the manuscript, tables, figures and supplementary information. Upon acceptance of publication, this repository will be updated to include all code used in this study.
+
 Abstract for the study:
 
 Background
@@ -17,10 +19,6 @@ Reducing average BMI levels, and further reducing smoking and alcohol intake, in
 
 Funding
 Health Foundation.
-
-This repository will be updated upon acceptance of publication to include the manuscript, supplementary information and all code used in this study.
-
-Until publication, this repository contains the manuscript (as on MedRxiv) and all supplementary information.
 
 Authors: Sean Harrison*, PhD [1,2], Alisha R Davies, PhD [3], Matt Dickson, PhD [4], Jessica Tyrrell, PhD [5], Michael J Green, PhD [6], Srinivasa Vittal Katikireddi, PhD [6], Desmond Campbell, PhD [6], Marcus Munafò, PhD [7], Padraig Dixon, PhD [1,2], Hayley E Jones, PhD [2], Frances Rice, PhD [8], Neil M Davies^, PhD [1,2], Laura D Howe^, PhD [1,2]
 
