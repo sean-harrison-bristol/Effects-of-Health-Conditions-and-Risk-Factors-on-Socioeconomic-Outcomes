@@ -1,7 +1,9 @@
 # Effects-of-Health-Conditions-and-Risk-Factors-on-Socioeconomic-Outcomes
 Repository for the paper entitled: The Causal Effects of Health Conditions and Risk Factors on Social and Socioeconomic Outcomes: Mendelian Randomization in UK Biobank
 
-This repository contains the manuscript, tables, figures and supplementary information. Upon acceptance of publication, this repository will be updated to include all code used in this study.
+This repository contains the manuscript, tables, figures and supplementary information. The paper is now published: https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyaa114/5893666?searchresult=1
+
+As such, all code used in this paper has been uploaded to the "Code" folder.
 
 Abstract for the study:
 
